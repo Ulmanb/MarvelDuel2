@@ -1,0 +1,8 @@
+.Button-container > button {
+    background-color: yellow;
+    font-size: 20pt;
+    font-weight: 700;
+    margin: 1vh 1vw;
+    border: 2px white solid;
+    cursor: pointer;
+}

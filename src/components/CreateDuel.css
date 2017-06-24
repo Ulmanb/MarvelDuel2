@@ -1,0 +1,4 @@
+.CreateDuel-grid-container {
+    max-height: 82vh;
+    overflow: auto;
+}

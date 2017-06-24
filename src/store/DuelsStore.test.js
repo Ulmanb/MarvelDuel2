@@ -1,0 +1,1 @@
+import { heroesToDuelId } from './DuelsStore';

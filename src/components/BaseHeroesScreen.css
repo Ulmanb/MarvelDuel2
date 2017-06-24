@@ -1,0 +1,30 @@
+.BaseHeroesScreen-container {
+    max-width: 860px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 100vw;
+    height: 102vh;
+}
+
+.BaseHeroesScreen-logo {
+    width: 157px;
+    height: 114px;
+    position: fixed;
+    left: 25px;
+    top: 25px;
+}
+
+.BaseHeroesScreen-container h2 {
+    color: white;
+    text-transform: uppercase;
+    margin: 3vh auto;
+}
+
+.BaseHeroesScreen-container > footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
