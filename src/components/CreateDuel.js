@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import HeroesGrid from './HeroesGrid';
-import { getHeroes } from '../store/HeroStore';
 import Button from './commons/Button';
 import { Link } from 'react-router-dom';
 import { heroesToDuelId } from '../store/DuelsStore';
